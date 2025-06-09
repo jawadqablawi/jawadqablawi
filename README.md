@@ -56,3 +56,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=gruvbox&show_icons=true&hide_border=false&count_private=false" alt="jawadqablawi's Stats" />
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&textBg=false&fontSize=0&animation=fadeIn" alt="footer wave"/>
+</p>
