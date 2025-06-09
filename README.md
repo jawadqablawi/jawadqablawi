@@ -19,7 +19,7 @@
 
 - 🚀 I'm currently training in **Mobile Development**
 - 💬 Ask me about **Frontend , Problem Solving**
-- 📫 How to reach me:jawad2005qablawi@gmail.com
+- 📫 How to reach me: jawad2005qablawi@gmail.com
 
 ---
 
