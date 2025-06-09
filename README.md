@@ -63,6 +63,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=gruvbox&show_icons=true&hide_border=false&count_private=false" alt="jawadqablawi's GitHub Stats" />
 </p>
 
+<!-- Footer Wave -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&text=&fontSize=0&animation=fadeIn" 
