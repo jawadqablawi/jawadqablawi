@@ -21,8 +21,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
-
-<h2 align="left">🙎‍♂️ About Me :</h2>  
 - Currently training in **Mobile Development**  
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
