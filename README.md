@@ -6,10 +6,9 @@
   />
 </p>
 
-<h1 align="center">Computer Engineering Student</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&color=000000&width=450&lines=Computer+Engineering+Student;Flutter+Enthusiast;Tech+Lover" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&color=000000&width=450&lines=Computer+Engineering+Student;Web+Development;Tech+Lover" alt="Typing SVG" />
+</h1>
 
 <img 
   align="right" 
