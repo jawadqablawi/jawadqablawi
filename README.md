@@ -58,6 +58,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&color=000000&width=500&lines=Thank+you+for+visiting+my+GitHub+profile+❤️;I+hope+you+find+something+inspiring+here+✨" alt="Thank you message" />
+</p>
+
 
 <p align="center">
   <img 
