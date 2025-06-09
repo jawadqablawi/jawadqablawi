@@ -7,8 +7,9 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&color=000000&width=450&lines=Computer+Engineering+Student;Web+Development;Tech+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=500&center=true&vCenter=true&color=000000&width=450&duration=1500&lines=Computer+Engineering+Student;Web+Development;Problem+Solver" alt="Typing SVG" />
 </h1>
+
 
 <img 
   align="right" 
