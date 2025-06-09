@@ -22,11 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🚀 Currently training in **Mobile Development**  
+## 🙎‍♂️ About Me 
+- Currently training in **Mobile Development**  
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🔗 Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
@@ -42,7 +43,7 @@
   </a>
 </p>
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h2 align="left">🛠 Languages & Tools</h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="40" width="40" />
@@ -54,7 +55,7 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h2 align="left">📊 GitHub Stats</h2>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=gruvbox&show_icons=true&hide_border=false&count_private=false" 
