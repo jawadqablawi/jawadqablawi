@@ -1,5 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&text=Hi%20,%20I'm%20Jawad%20Qablawi&section=header&textBg=false&fontSize=0&animation=fadeIn)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=header&text=Hi%20,%20I'm%20Jawad%20Qablawi&textBg=false&fontSize=40&animation=fadeIn" alt="header"/>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+YourName!+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
@@ -57,5 +58,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=gruvbox&show_icons=true&hide_border=false&count_private=false" alt="jawadqablawi's Stats" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&textBg=false&fontSize=0&animation=fadeIn" alt="footer wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&text=&fontSize=0&animation=fadeIn" alt="footer"/>
 </p>
