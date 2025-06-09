@@ -19,7 +19,7 @@
 />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<img src="https://komarev.com/ghpvc/?username=jawadqablawi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <h3 align="left">🙋‍♂️ About me:</h3>
 
