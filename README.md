@@ -18,6 +18,7 @@
   src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
 />
 
+<h3 align="left">🙋‍♂️ About me:</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
