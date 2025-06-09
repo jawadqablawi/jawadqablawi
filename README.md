@@ -57,13 +57,7 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=gruvbox&show_icons=true&hide_border=false&count_private=false" 
-    alt="jawadqablawi's GitHub Stats" 
-  />
-</p>
+
 
 <p align="center">
   <img 
