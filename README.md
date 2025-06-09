@@ -29,19 +29,20 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
+  <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
   </a>
-  <a href="https://fb.com/jawad.qablawi.94" target="_blank" rel="noopener">
+  <a href="https://fb.com/jawad.qablawi.94" target="_blank" rel="noopener" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="40" />
   </a>
-  <a href="https://instagram.com/jawad.qablawi" target="_blank" rel="noopener">
+  <a href="https://instagram.com/jawad.qablawi" target="_blank" rel="noopener" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/jawad_qablawi" target="_blank" rel="noopener">
+  <a href="https://codeforces.com/profile/jawad_qablawi" target="_blank" rel="noopener" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="40" />
   </a>
 </p>
+
 
 
 
