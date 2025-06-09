@@ -1,4 +1,3 @@
-<!-- Header Wave -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Hi%20,%20I'm%20Jawad%20Qablawi&section=header&textBg=false&fontSize=0&animation=fadeIn&reversal=false&fontAlign=50&fontAlignY=41" 
@@ -7,10 +6,8 @@
   />
 </p>
 
-<!-- Main Title Centered -->
 <h1 align="center">Computer Engineering Student</h1>
 
-<!-- Right Side Image -->
 <img 
   align="right" 
   alt="Coder GIF" 
@@ -19,17 +16,14 @@
   src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" 
 />
 
-<!-- Profile Views -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-<!-- About Me Section -->
 - 🚀 Currently training in **Mobile Development**  
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
 
-<!-- Connect with Me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
@@ -46,7 +40,6 @@
   </a>
 </p>
 
-<!-- Languages & Tools -->
 <h3 align="left">🛠 Languages & Tools</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" width="40" />
@@ -59,7 +52,6 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-<!-- GitHub Stats -->
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
   <img 
@@ -68,7 +60,6 @@
   />
 </p>
 
-<!-- Footer Wave -->
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&text=&fontSize=0&animation=fadeIn" 
