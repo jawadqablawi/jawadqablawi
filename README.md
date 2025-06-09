@@ -62,12 +62,11 @@
 
 
 
+---
+
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&text=&fontSize=0&animation=fadeIn" 
-    alt="Footer Wave" 
-    width="1000"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Thank+you+for+visiting+my+GitHub+profile;I+hope+you+find+something+inspiring+here." alt="Typing SVG" />
 </p>
+
 ---
 
