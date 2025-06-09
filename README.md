@@ -21,11 +21,12 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
+
 - Currently training in **Mobile Development**  
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
 
-<h2 align="left">🔗 Connect with me :</h2>
+<h2 align="left"> Connect with me :</h2>
 <p align="left">
   <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
