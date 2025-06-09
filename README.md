@@ -26,7 +26,7 @@
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
