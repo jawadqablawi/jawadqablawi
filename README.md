@@ -57,9 +57,8 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=000000&width=700&lines=Thank+you+for+visiting+my+GitHub+profile+❤️;I+hope+you+find+something+inspiring+here+✨" alt="Thank you message" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Thank+you+for+visiting+my+GitHub+profile;I+hope+you+find+something+inspiring+here.)
+
 
 
 
