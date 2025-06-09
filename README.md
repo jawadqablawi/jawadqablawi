@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&width=435&lines=Hi%2C+I'm+YourName!+👋;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Computer Engineering Student </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=000000&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" />
+</p>
 
 
 <p align="center">
