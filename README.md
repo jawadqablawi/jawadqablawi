@@ -58,7 +58,11 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-![jawadqablawi's Stats](https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=tokyonight&show_icons=true&hide_border=false&count_private=false" alt="jawadqablawi's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadqablawi&theme=tokyonight&hide_border=false" alt="jawadqablawi's Streak" />
+</p>
+
 ---
 
 
