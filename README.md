@@ -58,14 +58,16 @@
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" height="40" width="40" />
 </p>
 
-
+![jawadqablawi's Stats](https://github-readme-stats.vercel.app/api?username=jawadqablawi&theme=tokyonight&show_icons=true&hide_border=false&count_private=false)
 ---
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Thank+you+for+visiting+my+GitHub+profile;I+hope+you+find+something+inspiring+here." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Thank+you+for+visiting+my+GitHub+profile;I+hope+you+find+something+inspiring+here." alt="Typing SVG" />
 </p>
 
-<p align="center">More actions
+
+<p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=317&color=gradient&section=footer&text=&fontSize=0&animation=fadeIn" 
     alt="Footer Wave" 
