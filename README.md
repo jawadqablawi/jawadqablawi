@@ -26,7 +26,10 @@
 - Passionate about **Frontend Development** & **Problem Solving**  
 - Reach me at: [jawad2005qablawi@gmail.com](mailto:jawad2005qablawi@gmail.com)
 
-<p align="left" style="font-size: 24px; font-weight: bold;">Connect with me :</p>
+<p align="left" style="font-size: 28px; font-weight: bold; color: #0a66c2;">
+  🔗 Connect with me
+</p>
+
 <p align="left">
   <a href="https://linkedin.com/in/jawadqablawi" target="_blank" rel="noopener">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
@@ -41,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="35" width="40" />
   </a>
 </p>
+
 
 
 <h2 align="left">🛠 Languages & Tools :</h2>
